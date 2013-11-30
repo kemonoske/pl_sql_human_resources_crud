@@ -4,5 +4,5 @@ Human Resource CRUD
   
 Screens
 ====================
-![Employee List](/path/to/img.jpg "Employees List")
-![Add Form](/path/to/img.jpg "OAdd Form")
+![Employee List](/screens/Screen Shot 2013-11-30 at 1.22.12 PM.png "Employees List")
+![Add Form](/screens/Screen Shot 2013-11-30 at 1.22.31 PM.png "Add Form")
