@@ -4,5 +4,8 @@ Human Resource CRUD
   
 Screens
 ====================
+Employee list
 ![Employee List](/screens/Screen Shot 2013-11-30 at 1.22.12 PM.png "Employees List")
+
+Example of add form
 ![Add Form](/screens/Screen Shot 2013-11-30 at 1.22.31 PM.png "Add Form")
